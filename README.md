@@ -7,5 +7,7 @@ Welcome to my GitHub profile!
   In addition to the repositories visible on this account, I have also contributed as a collaborator to several projects within the YadaYada college rookie developer team. These projects include:
   
 https://github.com/YadaYadaAT/Intro-to-Web-Technologies.git
+
 https://github.com/YadaYadaAT/IMDb.git
+
 https://github.com/YadaYadaAT/Calculator-CircuitVerse-Computer-Architecture.git
