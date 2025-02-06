@@ -6,6 +6,8 @@ I'm John Balasis, an aspiring programmer committed to pursuing my dream of codin
 
   In addition to the repositories visible on this account, I have also contributed as a collaborator to several projects within the YadaYada college rookie developer team. These projects include:
 
+https://github.com/YadaYadaAT/Web-development
+
 https://github.com/YadaYadaAT/OneDayFXVersion.git
   
 https://github.com/YadaYadaAT/Intro-to-Web-Technologies.git
@@ -14,4 +16,4 @@ https://github.com/YadaYadaAT/IMDb.git
 
 https://github.com/YadaYadaAT/Calculator-CircuitVerse-Computer-Architecture.git
 
-(Currently, I have a weekly schedule packed with daily studies: JavaScript (using "JavaScript: The Definitive Guide" by David Flanagan), CPU architecture (from "Inside the Machine"), PHP/SQL (via online documentaries), Python (starting with "A Whirlwind Tour of Python"), Java (college review), and Network Architecture (from my personal library). Honestly, I doubt I'll finish all these by the end of summer, and I'm eager to start learning Angular and restart my web development projects!)
+(Due to some personal and family challenges, my academic performance took a hit during one of the busiest semesters, and I had to temporarily step back from coding. However, I'm eager to return to it and get back on track as soon as possible.).
