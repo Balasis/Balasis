@@ -1,11 +1,11 @@
 ## John Balasis
 
-**BSc (Hons) Computer Science** — York St John University (via Athens Tech College)  
-Dean's List — First in class, all semesters
+**BSc (Hons) Computer Science** - University of York Europe Campus (CITY College)  
+Dean's List - First in class, all semesters
 
 ### Current Project
 
-**[Task Manager App](https://github.com/balasis-org/task-manager-app)** — Production-grade team task management platform
+**[Task Manager App](https://github.com/balasis-org/task-manager-app)** - Production-grade team task management platform
 
 - **Backend:** Java 21, Spring Boot 3.5, modular monolith architecture
 - **Frontend:** React (Vite), deployed as Azure Static Web App
@@ -19,5 +19,5 @@ Java · Spring Boot · SQL · React · JavaScript/TypeScript · Azure · Redis �
 
 ### Selected Collaborations
 
-- [SocketMultiplayerGame](https://github.com/YadaYadaAT/SocketMultiplayerGame) — Java socket-based multiplayer Connect 4
-- [IMDb](https://github.com/YadaYadaAT/IMDb) — T-SQL database project
+- [SocketMultiplayerGame](https://github.com/YadaYadaAT/SocketMultiplayerGame) - Java socket-based multiplayer Connect 4
+- [IMDb](https://github.com/YadaYadaAT/IMDb) - T-SQL database project
