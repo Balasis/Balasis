@@ -9,13 +9,13 @@ Dean's List - First in class, all semesters
 
 - **Backend:** Java 21, Spring Boot 3.5, modular monolith architecture
 - **Frontend:** React (Vite), deployed as Azure Static Web App
-- **Infrastructure:** Azure App Service, Managed Redis, Front Door, Key Vault, Blob Storage, SQL Database — all provisioned via Bicep IaC
+- **Infrastructure:** Azure App Service, Managed Redis, Front Door, Key Vault, Blob Storage, SQL Database, Container App Jobs - all provisioned via Bicep IaC
 - **Security:** OAuth2/OIDC with Microsoft Entra ID, managed identity, distributed rate limiting
 - **Operations:** CI/CD with GitHub Actions, k6 load testing, structured logging
 
 ### Tech Stack
 
-Java · Spring Boot · SQL · React · JavaScript/TypeScript · Azure · Redis · Docker · Bicep · Git
+Java · Spring Boot · SQL · React · JavaScript · Azure · Redis · Docker · Bicep · Git
 
 ### Selected Collaborations
 
