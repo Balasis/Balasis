@@ -3,6 +3,8 @@
 **BSc (Hons) Computer Science** - University of York Europe Campus (CITY College)  
 Dean's List - First in class, all semesters
 
+💻 Junior Developer at European Dynamics, learning and building across public-sector projects.
+
 ### Current Project
 
 **[Task Manager App](https://github.com/balasis-org/task-manager-app)** - Production-grade team task management platform
